@@ -33,11 +33,9 @@
 
 ## Demo
 
-<p align="center">
-  <video src="video overview.mp4" width="600" controls>
-    Your browser does not support the video tag.
-  </video>
-</p>
+
+https://github.com/user-attachments/assets/e5b94db6-c8bb-4a7f-941b-4e3a811f5d5f
+
 
 > *Real-time ASL letter recognition with instant feedback*
 
