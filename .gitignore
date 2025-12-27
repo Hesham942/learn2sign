@@ -46,9 +46,9 @@ yarn-error.log*
 # Kiro
 .kiro/
 
-# Project specific (optional - uncomment if you don't want these in repo)
+# Project specific
 images.jpg
 report.pdf
 report.docx
-"video overview.mp4"
+video\ overview.mp4
 # dataset.csv
