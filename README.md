@@ -37,6 +37,11 @@
 https://github.com/user-attachments/assets/e5b94db6-c8bb-4a7f-941b-4e3a811f5d5f
 
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/e5b94db6-c8bb-4a7f-941b-4e3a811f5d5f" controls="controls" style="max-width: 100%; height: auto;">
+  </video>
+</div>
+
 > *Real-time ASL letter recognition with instant feedback*
 
 ---
