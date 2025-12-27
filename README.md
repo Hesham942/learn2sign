@@ -46,7 +46,7 @@ https://github.com/user-attachments/assets/e5b94db6-c8bb-4a7f-941b-4e3a811f5d5f
 
 🤟 **Real-time Recognition** — Instant ASL letter detection with confidence scores
 
-📱 **Mobile-First Design** — Native Android app built with React Native & Expo
+📱 **Mobile-First Design** — Native app built with React Native & Expo
 
 ⚡ **Power Efficient** — Landmark-based approach uses 95% less data than image-based models
 
